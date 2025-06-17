@@ -1,10 +1,10 @@
 const CACHE_NAME = 'pwa-to-do-cache-v1';
 const URLS_TO_CACHE = [
-    'to-do-pwa/',
-    'to-do-pwa/index.html',
-    'to-do-pwa/manifest.json',
-    'to-do-pwa/styles.css',
-    'to-do-pwa/app.js',
+    '/',
+    '/index.html',
+    '/manifest.json',
+    '/styles.css',
+    '/app.js',
 ];
 
 // Instala o service worker e faz cache dos arquivos essenciais
